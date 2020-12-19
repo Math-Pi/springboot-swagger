@@ -88,5 +88,5 @@ public class TestController {
 
 打开浏览器，地址栏输入http://localhost:8080/swagger-ui.html，页面如下，表示配置成功。
 
-<img src="C:\Users\cjm\AppData\Roaming\Typora\typora-user-images\image-20201219120524869.png" alt="image-20201219120524869" style="zoom:80%;" />
+<img src="https://img-blog.csdnimg.cn/20201219123334246.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NqbV8wMQ==,size_16,color_FFFFFF,t_70#pic_center" alt="image-20201219120524869" style="zoom:80%;" />
 
