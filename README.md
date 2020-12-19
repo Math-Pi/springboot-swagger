@@ -88,5 +88,6 @@ public class TestController {
 
 打开浏览器，地址栏输入http://localhost:8080/swagger-ui.html ，页面如下，表示配置成功。
 
-<img src="https://img-blog.csdnimg.cn/20201219123334246.png" />
+
+![tupian](https://img-blog.csdnimg.cn/20201219123334246.png)
 
