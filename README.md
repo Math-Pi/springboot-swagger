@@ -86,7 +86,7 @@ public class TestController {
 
 ## 四、测试
 
-打开浏览器，地址栏输入http://localhost:8080/swagger-ui.html，页面如下，表示配置成功。
+打开浏览器，地址栏输入http://localhost:8080/swagger-ui.html ，页面如下，表示配置成功。
 
-<img src="https://img-blog.csdnimg.cn/20201219123334246.png" alt="image-20201219120524869" style="zoom:80%;" />
+<img src="https://img-blog.csdnimg.cn/20201219123334246.png" />
 
